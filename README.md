@@ -45,7 +45,7 @@ Responder perguntas como:
 
 ```bash
 # Clone o repositório
-git clone <link-do-repositorio>
+git clone https://github.com/DaviBaruch/Analise-livros.git
 
 # Instale as dependências
 pip install pandas matplotlib seaborn
